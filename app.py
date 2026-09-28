@@ -8,7 +8,7 @@ import time
 # CONFIGURATION
 # ============================================================
 
-st.image("st.image("VT.jpg")
+st.image("VT.jpg")
 st.set_page_config(
     page_title="AURELIA HOTEL — Room Management",
     page_icon="✦",
